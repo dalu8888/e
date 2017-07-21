@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.17jee:e-security-jwt:3.0.1.8">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.17jee/e-security-jwt/3.0.1.8/98596c82405e7ad6f47301bb15bba672d3818a3d/e-security-jwt-3.0.1.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.17jee/e-security-jwt/3.0.1.8/99b6eae2b8c826527a8f66a3e627f6b40393a3be/e-security-jwt-3.0.1.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

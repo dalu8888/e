@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.17jee:e-security-auth:3.0.1.8">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.17jee/e-security-auth/3.0.1.8/db3232d0974bb0a8766979bb4e4185dd9a4a1366/e-security-auth-3.0.1.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.17jee/e-security-auth/3.0.1.8/bdfb7621b8e26acd2567d06d0973124802fbf964/e-security-auth-3.0.1.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

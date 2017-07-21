@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/demo" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/demo/demo-service" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/demo/demo-service/src/main" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/demo/demo-ui" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/demo/demo-ui/src/main" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/e-example" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/e-example/e-example-single" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/e-example/e-micro-service/e-example-ms-db/src/main" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/e-example/e-micro-service/e-example-ms-demo" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/e-example/e-micro-service/e-example-ms-demo/src/main" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/e-example/e-micro-service/e-example-ms-discovery" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/e-example/e-micro-service/e-example-ms-discovery/src/main" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/e-example/e-micro-service/e-example-ms-gateway" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/e-example/e-micro-service/e-example-ms-log" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/e-example/e-micro-service/e-example-ms-oauth2" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/e-example/e-micro-service/e-example-ms-start" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/e-example/e-micro-service/e-example-ms-start-w" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/e-example/e-micro-service/e-example-ms-ui" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/e-example/e-micro-service/e-example-ms-upm" vcs="svn" />
+  </component>
+</project>

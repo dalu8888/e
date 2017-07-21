@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/demo" />
+            <option value="$PROJECT_DIR$/demo/demo-service" />
+            <option value="$PROJECT_DIR$/demo/demo-ui" />
+            <option value="$PROJECT_DIR$/e-example" />
+            <option value="$PROJECT_DIR$/e-example/e-example-single" />
+            <option value="$PROJECT_DIR$/e-example/e-micro-service" />
+            <option value="$PROJECT_DIR$/e-example/e-micro-service/e-example-ms-db" />
+            <option value="$PROJECT_DIR$/e-example/e-micro-service/e-example-ms-demo" />
+            <option value="$PROJECT_DIR$/e-example/e-micro-service/e-example-ms-discovery" />
+            <option value="$PROJECT_DIR$/e-example/e-micro-service/e-example-ms-gateway" />
+            <option value="$PROJECT_DIR$/e-example/e-micro-service/e-example-ms-log" />
+            <option value="$PROJECT_DIR$/e-example/e-micro-service/e-example-ms-oauth2" />
+            <option value="$PROJECT_DIR$/e-example/e-micro-service/e-example-ms-start" />
+            <option value="$PROJECT_DIR$/e-example/e-micro-service/e-example-ms-start-w" />
+            <option value="$PROJECT_DIR$/e-example/e-micro-service/e-example-ms-ui" />
+            <option value="$PROJECT_DIR$/e-example/e-micro-service/e-example-ms-upm" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

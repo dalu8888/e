@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="demo-service_main" target="1.8" />
+      <module name="demo-service_test" target="1.8" />
+      <module name="demo-ui_main" target="1.8" />
+      <module name="demo-ui_test" target="1.8" />
+      <module name="demo_main" target="1.8" />
+      <module name="demo_test" target="1.8" />
+      <module name="e-example-ms-db_main" target="1.8" />
+      <module name="e-example-ms-db_test" target="1.8" />
+      <module name="e-example-ms-demo_main" target="1.8" />
+      <module name="e-example-ms-demo_test" target="1.8" />
+      <module name="e-example-ms-discovery_main" target="1.8" />
+      <module name="e-example-ms-discovery_test" target="1.8" />
+      <module name="e-example-ms-gateway_main" target="1.8" />
+      <module name="e-example-ms-gateway_test" target="1.8" />
+      <module name="e-example-ms-log_main" target="1.8" />
+      <module name="e-example-ms-log_test" target="1.8" />
+      <module name="e-example-ms-oauth2_main" target="1.8" />
+      <module name="e-example-ms-oauth2_test" target="1.8" />
+      <module name="e-example-ms-start-w_main" target="1.8" />
+      <module name="e-example-ms-start-w_test" target="1.8" />
+      <module name="e-example-ms-start_main" target="1.8" />
+      <module name="e-example-ms-start_test" target="1.8" />
+      <module name="e-example-ms-ui_main" target="1.8" />
+      <module name="e-example-ms-ui_test" target="1.8" />
+      <module name="e-example-ms-upm_main" target="1.8" />
+      <module name="e-example-ms-upm_test" target="1.8" />
+      <module name="e-example-single_main" target="1.8" />
+      <module name="e-example-single_test" target="1.8" />
+      <module name="e-example_main" target="1.8" />
+      <module name="e-example_test" target="1.8" />
+      <module name="e-micro-service_main" target="1.8" />
+      <module name="e-micro-service_test" target="1.8" />
+      <module name="e_main" target="1.8" />
+      <module name="e_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
